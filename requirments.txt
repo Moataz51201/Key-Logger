@@ -1,0 +1,7 @@
+keyboard
+requests
+os
+pyperclip
+time
+mss
+threading
